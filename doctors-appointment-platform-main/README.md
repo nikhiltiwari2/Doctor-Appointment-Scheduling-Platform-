@@ -152,18 +152,6 @@ npm start
 
 ---
 
-## 🙌 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## ⭐ Support the Project
 
 If you like this project, don't forget to ⭐ the repository!
