@@ -143,12 +143,6 @@ npm start
 
 ---
 
-## 📸 Screenshots (Optional)
-
-Add screenshots for homepage, login page, dashboard, booking page etc.
-
----
-
 ## 🧪 Future Improvements
 
 * Online payment integration
